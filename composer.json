@@ -1,0 +1,6 @@
+{
+    "name": "dev/linkedinconnect",
+    "require": {
+        "aymericdev/linkedin-sdk-php": "^1.0"
+    }
+}
