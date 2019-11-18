@@ -9,5 +9,5 @@
 		header("Location: /linkedinconnect/connected.php"); die;
 	} catch (Exception $e) {
 		unset($_SESSION['li_token']);
-//		header("Location: /linkedinconnect/"); die;
+		header("Location: /linkedinconnect/"); die;
 	}
